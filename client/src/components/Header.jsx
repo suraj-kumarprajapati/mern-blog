@@ -41,7 +41,7 @@ function Header() {
           </Button>
 
           <Link to="/sign-in">
-            <Button gradientDuoTone="purpleToBlue" color='gray' >
+            <Button gradientDuoTone="purpleToBlue" outline color='gray' >
               SignIn
             </Button>
           </Link> 
